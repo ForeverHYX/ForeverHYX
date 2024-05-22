@@ -24,7 +24,7 @@
   </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ForeverHYX/ForeverHYX/output/github-contribution-grid-snake.svg" id="dark-image" />
+  <img src="https://raw.githubusercontent.com/ForeverHYX/ForeverHYX/output/github-contribution-grid-snake.svg" id="light-image" />
 </div>
 
   

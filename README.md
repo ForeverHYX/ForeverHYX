@@ -23,9 +23,33 @@
 
   </div>
   
-  ![暗色](https://raw.githubusercontent.com/ForeverHYX/ForeverHYX/output/github-contribution-grid-snake-dark.svg)
-![亮色](https://raw.githubusercontent.com/ForeverHYX/ForeverHYX/output/github-contribution-grid-snake.svg)
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ForeverHYX/ForeverHYX/output/github-contribution-grid-snake.svg" id="light-image" />
+  <img src="https://raw.githubusercontent.com/ForeverHYX/ForeverHYX/output/github-contribution-grid-snake-dark.svg" id="dark-image" style="display: none;" />
+</div>
+
+<script>
+  // 获取页面主题
+  const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+
+  // 根据主题设置图片显示
+  function setTheme() {
+    if (prefersDarkScheme.matches) {
+      document.getElementById('light-image').style.display = 'none';
+      document.getElementById('dark-image').style.display = 'block';
+    } else {
+      document.getElementById('light-image').style.display = 'block';
+      document.getElementById('dark-image').style.display = 'none';
+    }
+  }
+
+  // 监听主题变化
+  prefersDarkScheme.addListener(setTheme);
+
+  // 初始设置
+  setTheme();
+</script>
 
 
 

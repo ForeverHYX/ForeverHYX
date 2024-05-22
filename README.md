@@ -25,7 +25,9 @@
   
   
 </div>
-![](https://raw.githubusercontent.com/ForeverHYX/ForeverHYX/main/assets/github-contribution-grid-snake.svg)
+![暗色](https://raw.githubusercontent.com/ForeverHYX/ForeverHYX/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/ForeverHYX/ForeverHYX/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **ForeverHYX/ForeverHYX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

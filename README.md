@@ -12,6 +12,16 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
+  <div>
+    <a href="https://foreverhyx.top/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="https://foreverhyx.top"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://space.bilibili.com/84118657?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=ForeverHYX&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <!-- wakatime -->    
+    <a href="https://wakatime.com/@ForeverHYX"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+
+  </div>
 </div>
 
 <!--

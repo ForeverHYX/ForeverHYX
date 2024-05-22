@@ -20,7 +20,11 @@
     <img src="https://komarev.com/ghpvc/?username=ForeverHYX&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
     <a href="https://wakatime.com/@ForeverHYX"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ForeverHYX/ForeverHYX/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ForeverHYX/ForeverHYX/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/ForeverHYX/ForeverHYX/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
   </div>
 </div>
 

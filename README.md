@@ -22,6 +22,7 @@
     <a href="https://wakatime.com/@ForeverHYX"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 
   </div>
+  ![](https://raw.githubusercontent.com/ForeverHYX/ForeverHYX/main/assets/github-contribution-grid-snake.svg)
 </div>
 
 <!--

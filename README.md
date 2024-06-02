@@ -23,7 +23,7 @@
 
   </div>
 
-![暗色](https://raw.githubusercontent.com/ForeverHYX/ForeverHYX/output/github-contribution-grid-snake-dark.svg)
+![暗色](https://raw.githubusercontent.com/ForeverHYX/ForeverHYX/output/github-contribution-grid-snake-light.svg)
 
   
 </div>

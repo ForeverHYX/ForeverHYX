@@ -30,7 +30,7 @@
 
 Hi there, I'm Yixun Hong, a junior student majoring in Information Security in Zhejiang University, member of @ZJUSCT, and still learning coding.
 
-Curious for something more? Visit [My Homepage](https://foreverhyx.top) to know!
+Curious about something more? Visit [My Homepage](https://foreverhyx.top) to know!
 
 
 

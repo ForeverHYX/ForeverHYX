@@ -22,6 +22,10 @@
 
 ![亮色](https://raw.githubusercontent.com/ForeverHYX/ForeverHYX/output/github-contribution-grid-snake.svg)
 
+  <!-- github stats & languages -->
+  <a href="https://github.com/ForeverHYX"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ForeverHYX&theme=github_dark" alt="ForeverHYX's GitHub Stats" /></a>&emsp;
+  <a href="https://github.com/ForeverHYX"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ForeverHYX&theme=github_dark" alt="ForeverHYX's languages" /></a>
+
   
 </div>
 

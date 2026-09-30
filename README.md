@@ -22,7 +22,7 @@
 
 ![亮色](https://raw.githubusercontent.com/ForeverHYX/ForeverHYX/output/github-contribution-grid-snake.svg)
 
-  <!-- github stats & streak & languages -->
+  <!-- github stats & streak -->
   <a href="https://github.com/ForeverHYX">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ForeverHYX&show_icons=true&hide_border=true&theme=github_dark" />
@@ -37,14 +37,7 @@
       <img height="160" src="https://streak-stats.demolab.com/?user=ForeverHYX&hide_border=true&theme=default" alt="ForeverHYX's GitHub streak" />
     </picture>
   </a>
-  <br />
-  <a href="https://github.com/ForeverHYX">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ForeverHYX&layout=donut&hide_border=true&exclude_repo=hpc101-su24&theme=github_dark&card_width=740" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ForeverHYX&layout=donut&hide_border=true&exclude_repo=hpc101-su24&theme=default&card_width=740" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForeverHYX&layout=donut&hide_border=true&exclude_repo=hpc101-su24&theme=default&card_width=740" alt="ForeverHYX's most used languages" />
-    </picture>
-  </a>
+
 
   
 </div>

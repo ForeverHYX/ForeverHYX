@@ -40,9 +40,9 @@
   <br />
   <a href="https://github.com/ForeverHYX">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ForeverHYX&layout=donut&hide_border=true&theme=github_dark&card_width=740" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ForeverHYX&layout=donut&hide_border=true&theme=default&card_width=740" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForeverHYX&layout=donut&hide_border=true&theme=default&card_width=740" alt="ForeverHYX's most used languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ForeverHYX&layout=donut&hide_border=true&exclude_repo=hpc101-su24&theme=github_dark&card_width=740" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ForeverHYX&layout=donut&hide_border=true&exclude_repo=hpc101-su24&theme=default&card_width=740" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForeverHYX&layout=donut&hide_border=true&exclude_repo=hpc101-su24&theme=default&card_width=740" alt="ForeverHYX's most used languages" />
     </picture>
   </a>
 

@@ -23,8 +23,20 @@
 ![亮色](https://raw.githubusercontent.com/ForeverHYX/ForeverHYX/output/github-contribution-grid-snake.svg)
 
   <!-- github stats & languages -->
-  <a href="https://github.com/ForeverHYX"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ForeverHYX&theme=github_dark" alt="ForeverHYX's GitHub Stats" /></a>&emsp;
-  <a href="https://github.com/ForeverHYX"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ForeverHYX&theme=github_dark" alt="ForeverHYX's languages" /></a>
+  <a href="https://github.com/ForeverHYX">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ForeverHYX&show_icons=true&hide_border=true&theme=github_dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ForeverHYX&show_icons=true&hide_border=true&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ForeverHYX&show_icons=true&hide_border=true&theme=default" alt="ForeverHYX's GitHub Stats" />
+    </picture>
+  </a>&emsp;
+  <a href="https://github.com/ForeverHYX">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ForeverHYX&hide_border=true&theme=github_dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ForeverHYX&hide_border=true&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForeverHYX&hide_border=true&theme=default" alt="ForeverHYX's most used languages" />
+    </picture>
+  </a>
 
   
 </div>
